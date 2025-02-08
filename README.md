@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dharmbel
-- 👀 I’m interested in blockchain, cloud and edge computing, cybersecurity
-- 🌱 I’m currently learning how to use deep learning to detect ddos attack on edge servers 
+- 👀 I’m interested in LLMs AI Engineering and Data Science. 
 - 💞️ I’m looking to collaborate with any available persons
 - 📫 How to reach me dharhmbhel@gmail.com
 
